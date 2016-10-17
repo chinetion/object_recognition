@@ -1,4 +1,4 @@
-# object_recognition (Shape Detection)
+# Object Recognition (Shape Detection)
  
 
 ![Screenshot](output.png)
