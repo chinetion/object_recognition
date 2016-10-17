@@ -7,4 +7,5 @@
 - นำเส้นขอบของแต่ละรูปทรงมาทำการหามุมของรูปทรง โดยใช้ฟังก์ชัน approxPolyDP เพื่อที่จะระบุได้ว่าเป็นรูปทรงอะไร
 - หาจุด centroid ของรูปทรงโดยใช้สูตร
 <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e66d5df4ebb23552b557b2400414221242867cc4">
+ก
 ![Screenshot](output.png)
