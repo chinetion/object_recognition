@@ -1,12 +1,12 @@
 # Object Recognition (Shape Detection)
 อธิบายฟังก์ชันหลัก
-threshold(input image,threshold value,maximum value)
+- threshold(input image,threshold value,maximum value)
   ใช้ปรับ threshold ของรูปภาพเพื่อที่จะทำให้คำนวนได้ง่ายขึ้น
-bitwise_not(input image)
+- bitwise_not(input image)
   ใช้ Invert ภาพขาวดำ
-findContours(input image,Contour retrieval mode,Contour approximation method)
+- findContours(input image,Contour retrieval mode,Contour approximation method)
   ใช้ทำการหาเส้นขอบของรูปภาพ
-approxPolyDP(curve,epsilon,closed)
+- approxPolyDP(curve,epsilon,closed)
   ใช้หาตำแหน่งมุมของรูปภาพจากเส้นขอบ
 -----------------------------------------------
 ขั้นตอนการทำ
