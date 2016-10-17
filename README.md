@@ -1,5 +1,4 @@
 # Object Recognition (Shape Detection)
-  อธิบายฟังก์ชันหลัก
 - threshold(input image,threshold value,maximum value)
   ใช้ปรับ threshold ของรูปภาพเพื่อที่จะทำให้คำนวนได้ง่ายขึ้น
 - bitwise_not(input image)
